@@ -5,4 +5,6 @@ These carefully curated Spotify playlists come from [/u/highway1024](https://www
 
 I primarily made this page to be used in conjunction with [KenkuFM for Discord](https://www.kenku.fm). I highly recommend checking them out if you run online games or use an Elgato Stream Deck.
 
+Fonts used are from [Solbera's DnD Fonts.](https://github.com/jonathonf/solbera-dnd-fonts)
+
 You can find me on Reddit: [/u/Team-Hufflepuff](https://www.reddit.com/user/Team-Hufflepuff/) or on Discord: [@Team-Hufflepuff#5555](https://discord.com/users/340285845632319499)

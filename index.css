@@ -1,18 +1,18 @@
 @font-face {
 	font-family: "Nodesto Caps Condensed";
-	src: url("https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Nodesto%20Caps%20Condensed/Nodesto%20Caps%20Condensed.otf") format("opentype");
+	src: url("/fonts/Nodesto%20Caps%20Condensed.otf") format("opentype");
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: "Mr Eaves Small Caps";
-	src: url("https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Mr%20Eaves/Mr%20Eaves%20Small%20Caps.otf") format("opentype");
+	src: url("/fonts/Mr%20Eaves%20Small%20Caps.otf") format("opentype");
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: "Bookinsanity";
-	src: url("https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Bookinsanity/Bookinsanity.otf") format("opentype");
+	src: url("/fonts/Bookinsanity.otf") format("opentype");
 	font-weight: normal;
 }
 
