@@ -1,0 +1,81 @@
+@font-face {
+	font-family: "Nodesto Caps Condensed";
+	src: url("https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Nodesto%20Caps%20Condensed/Nodesto%20Caps%20Condensed.otf") format("opentype");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Mr Eaves Small Caps";
+	src: url("https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Mr%20Eaves/Mr%20Eaves%20Small%20Caps.otf") format("opentype");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Bookinsanity";
+	src: url("https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Bookinsanity/Bookinsanity.otf") format("opentype");
+	font-weight: normal;
+}
+
+body {
+	background: url("https://images.unsplash.com/photo-1528458965990-428de4b1cb0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBhcGVyfGVufDB8fDB8fA%3D%3D") center center repeat-y fixed white;
+	background-size: fill;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  font: 25px/21px "Nodesto Caps Condensed";
+  text-align: center;
+}
+
+.flex-container > div {
+  width: 100px;
+  margin: 0 5px 10px;
+}
+
+body div.flex-container div p {
+	display: table-cell;
+	margin: 0 0 7px;
+	font: 17px/14px "Mr Eaves Small Caps";
+	word-spacing: 0;
+	text-align: center;
+	vertical-align: middle;
+	height: 50px;
+	width: 100px;
+}
+
+h1 {
+	text-align: center;
+	font: bold 60px "Nodesto Caps Condensed";
+	word-spacing: 8px;
+}
+
+h2 {
+	text-align: center;
+	font: 35px "Nodesto Caps Condensed";
+	word-spacing: 8px;
+	margin-bottom: 20px;
+	padding-top: 15px;
+}
+
+div.theme {
+	background-color: silver;
+	border-radius: 25px;
+	width: 80%;
+	margin: auto;
+	padding-bottom: 15px;
+}
+
+div.disclaimer {
+	background-color: silver;
+	border-radius: 25px;
+	width: 80%;
+	margin: auto auto 100px;
+}
+body div.disclaimer p {
+	padding: 20px;
+	font: 20px "Bookinsanity";
+	text-indent: 20px;
+	text-align: center;
+}
