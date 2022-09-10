@@ -68,14 +68,17 @@ div.theme {
 }
 
 div.disclaimer {
-	background-color: silver;
 	border-radius: 25px;
 	width: 80%;
 	margin: auto auto 100px;
+	background-color: rgba(43, 10, 69, .5);
 }
 body div.disclaimer p {
 	padding: 20px;
 	font: 20px "Bookinsanity";
 	text-indent: 20px;
 	text-align: center;
+}
+body div.disclaimer p a {
+	color: #c3b2eb;
 }
